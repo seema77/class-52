@@ -1,0 +1,31 @@
+h2{
+    color:blanchedalmond;
+    text-align: center;
+    border: solid;
+    font-size: 35px;
+    background-color: darkred;
+}
+
+.main1{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    border: dotted;
+    background-color:rgb(219, 208, 210)
+
+}
+
+.main2{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    border: dotted;
+    background-color:rgb(219, 208, 210)
+}
+
+.heading{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+
+}
